@@ -1,6 +1,6 @@
 # 
-Chatbot_for_college_enquiries
-a Chatbot is a computer program that simulates and
+
+A Chatbot is a computer program that simulates and
 processes human conversation (either in text or speech), allowing humans to interact with
 digital devices as if they are communicating with a real person. Chatbots work on the
 principle of AI (Artificial Intelligence) and ML (Machine Learning). We, therefore,
